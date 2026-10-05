@@ -19,7 +19,7 @@ function SubmitButton({ type }: { type: 'plus' | 'minus' }) {
       aria-label={type === 'plus' ? 'Increase item quantity' : 'Reduce item quantity'}
       aria-disabled={pending}
       className={clsx(
-        'ease flex h-full min-w-[36px] max-w-[36px] flex-none items-center justify-center rounded-full px-2 transition-all duration-200 hover:scale-110 hover:text-veryDarkPurple',
+        'ease flex h-full min-w-[36px] max-w-[36px] flex-none items-center justify-center rounded-full px-2 transition-all duration-200 hover:text-veryDarkPurple hover:scale-110',
         {
           'cursor-not-allowed': pending,
           'ml-auto': type === 'minus'

@@ -1,0 +1,2792 @@
+{
+  "products": [
+    {
+      "handle": "ankle-fit-short-boots",
+      "title": "Ankle Fit Short Boots",
+      "description": "A design with a feeling of fitting that is popular every year. This season, we have prepared different heels and wooden patterns.The ankle part is wrapped in a soft and stretchy material for a delicate silhouette.The 5.5 cm heel is not too high, giving you a sense of security, while the square toe gives a sharp look.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">A design with a feeling of fitting that is popular every year. This season, we have prepared different heels and wooden patterns.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The ankle part is wrapped in a soft and stretchy material for a delicate silhouette.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The 5.5 cm heel is not too high, giving you a sense of security, while the square toe gives a sharp look.</span>",
+      "minPrice": "31400.0",
+      "maxPrice": "38800.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "Medium Gray", "Moca"]
+        },
+        {
+          "name": "Size",
+          "values": ["21.5cm", "22cm", "22.5cm", "23cm", "23.5cm", "24cm", "24.5cm", "25cm"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a001.jpg?v=1700533437",
+          "altText": "Ankle Fit Short Boots - 4500023F0174_x1_a001",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a004.jpg?v=1700533437",
+          "altText": "Ankle Fit Short Boots - 4500023F0174_x1_a004",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437",
+          "altText": "Ankle Fit Short Boots - 4500023F0174_x1_a000",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437",
+          "altText": "Ankle Fit Short Boots - 4500023F0174_x1_c102",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437",
+          "altText": "Ankle Fit Short Boots - 4500023F0174_x1_c103",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255963418813",
+          "title": "Black / 21.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "21.5cm"
+            }
+          ],
+          "price": {
+            "amount": "34100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963451581",
+          "title": "Black / 22cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "22cm"
+            }
+          ],
+          "price": {
+            "amount": "33500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963484349",
+          "title": "Black / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "36200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963517117",
+          "title": "Black / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "37000.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963549885",
+          "title": "Black / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "31700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963582653",
+          "title": "Black / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "32800.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963615421",
+          "title": "Black / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "33330.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963648189",
+          "title": "Black / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "36680.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_a000.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963680957",
+          "title": "Medium Gray / 21.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "21.5cm"
+            }
+          ],
+          "price": {
+            "amount": "33400.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963713725",
+          "title": "Medium Gray / 22cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "22cm"
+            }
+          ],
+          "price": {
+            "amount": "36700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963746493",
+          "title": "Medium Gray / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "34100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963779261",
+          "title": "Medium Gray / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "33500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963812029",
+          "title": "Medium Gray / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "34750.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963844797",
+          "title": "Medium Gray / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "32900.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963877565",
+          "title": "Medium Gray / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "31400.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963910333",
+          "title": "Medium Gray / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "33200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c102.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963943101",
+          "title": "Moca / 21.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "21.5cm"
+            }
+          ],
+          "price": {
+            "amount": "36800.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255963975869",
+          "title": "Moca / 22cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "22cm"
+            }
+          ],
+          "price": {
+            "amount": "37300.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255964008637",
+          "title": "Moca / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "38800.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255964041405",
+          "title": "Moca / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "31780.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255964074173",
+          "title": "Moca / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "36970.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255964106941",
+          "title": "Moca / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "32540.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255964139709",
+          "title": "Moca / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "35480.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255964172477",
+          "title": "Moca / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "34100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0174_x1_c103.jpg?v=1700533437"
+          }
+        }
+      ],
+      "tags": ["fit", "genuine leather", "refreshing", "shoe"],
+      "seo": {
+        "title": "Ankle Fit Short Boots",
+        "description": "A design with a feeling of fitting that is popular every year. This season, we have prepared different heels and wooden patterns.The ankle part is wrapped in a "
+      },
+      "updatedAt": "2026-03-18T19:25:34Z"
+    },
+    {
+      "handle": "blundstone-classics",
+      "title": "Blundstone Classics",
+      "description": "Side gore boots from the CLASSICS model, which is a top series of the brand.Careful lining specifications provide durability, smooth texture, and foot comfort.By incorporating XRD (R) not only in the heel but also in the insole, the boots further absorb shock when walking, making them more comfortable to wear.A timeless pair that goes well with both classic casual styles and urban attire.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">Side gore boots from the CLASSICS model, which is a top series of the brand.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Careful lining specifications provide durability, smooth texture, and foot comfort.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">By incorporating XRD (R) not only in the heel but also in the insole, the boots further absorb shock when walking, making them more comfortable to wear.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">A timeless pair that goes well with both classic casual styles and urban attire.</span>",
+      "minPrice": "31900.0",
+      "maxPrice": "33900.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black"]
+        },
+        {
+          "name": "Size",
+          "values": ["22.5-23cm", "23.5-24cm", "24cm"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0532_x1_c101.jpg?v=1700532577",
+          "altText": "Blundstone Classics - 4500023F0532_x1_c101",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0532_x1_a001.jpg?v=1700532577",
+          "altText": "Blundstone Classics - 4500023F0532_x1_a001",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0532_x1_a002.jpg?v=1700532577",
+          "altText": "Blundstone Classics - 4500023F0532_x1_a002",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255942480061",
+          "title": "Black / 22.5-23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "22.5-23cm"
+            }
+          ],
+          "price": {
+            "amount": "31900.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0532_x1_a002.jpg?v=1700532577"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255942512829",
+          "title": "Black / 23.5-24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23.5-24cm"
+            }
+          ],
+          "price": {
+            "amount": "32900.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0532_x1_a002.jpg?v=1700532577"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255942545597",
+          "title": "Black / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "33900.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0532_x1_a002.jpg?v=1700532577"
+          }
+        }
+      ],
+      "tags": ["casual", "iconic", "shoe"],
+      "seo": {
+        "title": "Blundstone Classics",
+        "description": "Side gore boots from the CLASSICS model, which is a top series of the brand.Careful lining specifications provide durability, smooth texture, and foot comfort.B"
+      },
+      "updatedAt": "2026-03-20T14:24:44Z"
+    },
+    {
+      "handle": "clear-earrings",
+      "title": "Clear Earrings",
+      "description": "These elegantly designed earrings go well with any outfit.It can be used for a wide range of purposes, from daily use to business to going out on special occasions.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">These elegantly designed earrings go well with any outfit.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">It can be used for a wide range of purposes, from daily use to business to going out on special occasions.</span>",
+      "minPrice": "20900.0",
+      "maxPrice": "20900.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["White"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0996_x1_c101.jpg?v=1700517337",
+          "altText": "Clear Earrings - 3600023F0996_x1_c101",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0996_x1_a001.jpg?v=1700517338",
+          "altText": "Clear Earrings - 3600023F0996_x1_a001",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0996_x1_a004.jpg?v=1700517337",
+          "altText": "Clear Earrings - 3600023F0996_x1_a004",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255439720637",
+          "title": "White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ],
+          "price": {
+            "amount": "20900.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0996_x1_a004.jpg?v=1700517337"
+          }
+        }
+      ],
+      "tags": ["accessory", "classy"],
+      "seo": {
+        "title": "Clear Earrings",
+        "description": "These elegantly designed earrings go well with any outfit.It can be used for a wide range of purposes, from daily use to business to going out on special occasi"
+      },
+      "updatedAt": "2026-03-22T06:40:48Z"
+    },
+    {
+      "handle": "clem-blouse",
+      "title": "Clem Blouse",
+      "description": "The delicate tucks, gathers, and frills made by hand exude a luxurious beauty.From the chest, neck, and back design, the carefully calculated and gorgeous expression makes it stand out.Although it is neat, it has a soft mood with feminine nuances that adds color to your personality.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">The delicate tucks, gathers, and frills made by hand exude a luxurious beauty.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">From the chest, neck, and back design, the carefully calculated and gorgeous expression makes it stand out.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Although it is neat, it has a soft mood with feminine nuances that adds color to your personality.</span>",
+      "minPrice": "36300.0",
+      "maxPrice": "37300.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "White"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/black-01.jpg?v=1700506586",
+          "altText": "Clem Blouse - black-01",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/black-02.jpg?v=1700506586",
+          "altText": "Clem Blouse - black-02",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/black-03.jpg?v=1700506587",
+          "altText": "Clem Blouse - black-03",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/black-04.jpg?v=1700506586",
+          "altText": "Clem Blouse - black-04",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/white-01.jpg?v=1700506586",
+          "altText": "Clem Blouse - white-01",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/white-02.jpg?v=1700506587",
+          "altText": "Clem Blouse - white-02",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255041851581",
+          "title": "Black",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            }
+          ],
+          "price": {
+            "amount": "36300.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/black-03.jpg?v=1700506587"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255041884349",
+          "title": "White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ],
+          "price": {
+            "amount": "37300.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/white-01.jpg?v=1700506586"
+          }
+        }
+      ],
+      "tags": ["back design", "cotton", "frill", "tack", "top"],
+      "seo": {
+        "title": "Clem Blouse",
+        "description": "The delicate tucks, gathers, and frills made by hand exude a luxurious beauty.From the chest, neck, and back design, the carefully calculated and gorgeous expre"
+      },
+      "updatedAt": "2026-03-20T03:58:25Z"
+    },
+    {
+      "handle": "eco-fur-2-way-bag",
+      "title": "Eco Fur 2-Way Bag",
+      "description": "Faux fur bags are popular every season.Introducing a new product with a different size and shoulder design. Finished with a size that is not too big or too small.Two types of shoulder straps are included.A shoulder strap with a simple design that can be worn diagonally,A twisted shoulder strap that looks like an accent to your styling.You can change it according to your mood of the day.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">Faux fur bags are popular every season.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Introducing a new product with a different size and shoulder design. </span><span data-mce-fragment=\"1\">Finished with a size that is not too big or too small.</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Two types of shoulder straps are included.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">A shoulder strap with a simple design that can be worn diagonally,</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">A twisted shoulder strap that looks like an accent to your styling.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">You can change it according to your mood of the day.</span>",
+      "minPrice": "6570.0",
+      "maxPrice": "9640.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Light Gray", "Medium Gray", "Moca", "Navy"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_c102.jpg?v=1700516442",
+          "altText": "Eco Fur 2-Way Bag - 3600023Y0211_x1_c102",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_a020.jpg?v=1700516442",
+          "altText": "Eco Fur 2-Way Bag - 3600023Y0211_x1_a020",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_c103.jpg?v=1700516443",
+          "altText": "Eco Fur 2-Way Bag - 3600023Y0211_x1_c103",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_a005.jpg?v=1700516443",
+          "altText": "Eco Fur 2-Way Bag - 3600023Y0211_x1_a005",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_a004.jpg?v=1700516443",
+          "altText": "Eco Fur 2-Way Bag - 3600023Y0211_x1_a004",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255399940285",
+          "title": "Light Gray",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Light Gray"
+            }
+          ],
+          "price": {
+            "amount": "7920.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_c102.jpg?v=1700516442"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255400038589",
+          "title": "Medium Gray",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            }
+          ],
+          "price": {
+            "amount": "8450.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_c103.jpg?v=1700516443"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255400071357",
+          "title": "Moca",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            }
+          ],
+          "price": {
+            "amount": "6570.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_a005.jpg?v=1700516443"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255400136893",
+          "title": "Navy",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Navy"
+            }
+          ],
+          "price": {
+            "amount": "9640.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023Y0211_x1_a004.jpg?v=1700516443"
+          }
+        }
+      ],
+      "tags": ["bag", "eco fur", "simple design", "stylish"],
+      "seo": {
+        "title": "Eco Fur 2-Way Bag",
+        "description": "Faux fur bags are popular every season.Introducing a new product with a different size and shoulder design. Finished with a size that is not too big or too smal"
+      },
+      "updatedAt": "2026-03-18T09:17:03Z"
+    },
+    {
+      "handle": "emilie-pants",
+      "title": "Emilie Pants",
+      "description": "By finishing the fabric like a willow, it creates unevenness in the fabric and realizes a comfortable silhouette that follows the body.You can also adjust the waist size with the waist string.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">By finishing the fabric like a willow, it creates unevenness in the fabric and realizes a comfortable silhouette that follows the body.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">You can also adjust the waist size with the waist string.</span>",
+      "minPrice": "36700.0",
+      "maxPrice": "39600.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["White", "Red"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_c101.jpg?v=1700513849",
+          "altText": "Emilie Pants - 8900023S0047_x1_c101",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_a004.jpg?v=1700513849",
+          "altText": "Emilie Pants - 8900023S0047_x1_a004",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_a006.jpg?v=1700513849",
+          "altText": "Emilie Pants - 8900023S0047_x1_a006",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_a009.jpg?v=1700513849",
+          "altText": "Emilie Pants - 8900023S0047_x1_a009",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_a021.jpg?v=1700513849",
+          "altText": "Emilie Pants - 8900023S0047_x1_a021",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_c102.jpg?v=1700513849",
+          "altText": "Emilie Pants - 8900023S0047_x1_c102",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255324246205",
+          "title": "White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ],
+          "price": {
+            "amount": "39600.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_a021.jpg?v=1700513849"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255324344509",
+          "title": "Red",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Red"
+            }
+          ],
+          "price": {
+            "amount": "36700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0047_x1_a014.jpg?v=1700513849"
+          }
+        }
+      ],
+      "tags": ["bottom", "breathable", "comfortable"],
+      "seo": {
+        "title": "Emilie Pants",
+        "description": "By finishing the fabric like a willow, it creates unevenness in the fabric and realizes a comfortable silhouette that follows the body.You can also adjust the w"
+      },
+      "updatedAt": "2026-03-17T09:56:20Z"
+    },
+    {
+      "handle": "faux-fur-warm-moccasins",
+      "title": "Faux Fur Warm Moccasins",
+      "description": "While applying soft faux fur on the insideFinished in a neat film.Pursuing good burr when walking, for a soft finish.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">While applying soft faux fur on the inside</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Finished in a neat film.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Pursuing good burr when walking, for a soft finish.</span>",
+      "minPrice": "7200.0",
+      "maxPrice": "9900.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "Medium Gray"]
+        },
+        {
+          "name": "Size",
+          "values": ["22.5cm", "23cm", "23.5cm", "24cm", "24.5cm", "25cm", "25.5cm"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007",
+          "altText": "Faux Fur Warm Moccasins - 3600023F0930_x1_c101",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_a013.jpg?v=1700534009",
+          "altText": "Faux Fur Warm Moccasins - 3600023F0930_x1_a013",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008",
+          "altText": "Faux Fur Warm Moccasins - 3600023F0930_x1_c102",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_a007.jpg?v=1700534008",
+          "altText": "Faux Fur Warm Moccasins - 3600023F0930_x1_a007",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255976231101",
+          "title": "Black / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "9900.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976263869",
+          "title": "Black / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "7200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976296637",
+          "title": "Black / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "8600.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976329405",
+          "title": "Black / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "9450.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976362173",
+          "title": "Black / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "7850.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976394941",
+          "title": "Black / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "9650.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976427709",
+          "title": "Black / 25.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "25.5cm"
+            }
+          ],
+          "price": {
+            "amount": "8250.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c101.jpg?v=1700534007"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976460477",
+          "title": "Medium Gray / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "7450.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976493245",
+          "title": "Medium Gray / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "8100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976526013",
+          "title": "Medium Gray / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "9200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976558781",
+          "title": "Medium Gray / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "8800.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976591549",
+          "title": "Medium Gray / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "7500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976624317",
+          "title": "Medium Gray / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "9380.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255976657085",
+          "title": "Medium Gray / 25.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            },
+            {
+              "name": "Size",
+              "value": "25.5cm"
+            }
+          ],
+          "price": {
+            "amount": "8760.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3600023F0930_x1_c102.jpg?v=1700534008"
+          }
+        }
+      ],
+      "tags": ["fake fur", "refreshing", "shoe", "simple design"],
+      "seo": {
+        "title": "Faux Fur Warm Moccasins",
+        "description": "While applying soft faux fur on the insideFinished in a neat film.Pursuing good burr when walking, for a soft finish."
+      },
+      "updatedAt": "2026-03-18T23:36:16Z"
+    },
+    {
+      "handle": "fringe-knit",
+      "title": "Fringe Knit",
+      "description": "The delicate lace and tuck expressions that have been made with fabric have been expressed in new knits, combining a variety of fine knitted patterns.Flower garlands, which are essential for Hindi temples and celebrations, are also incorporated into the knitting patterns.The voluminous fringe at the hem gives off a sense of presence and brings out the gorgeousness.",
+      "descriptionHtml": "<p><span data-mce-fragment=\"1\">The delicate lace and tuck expressions that have been made with fabric have been expressed in new knits, combining a variety of fine knitted patterns.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Flower garlands, which are essential for Hindi temples and celebrations, are also incorporated into the knitting patterns.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The voluminous fringe at the hem gives off a sense of presence and brings out the gorgeousness.</span><br></p>",
+      "minPrice": "44500.0",
+      "maxPrice": "46200.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Medium Gray", "Natural"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-01.jpg?v=1700505795",
+          "altText": "Fringe Knit - medium-gray-01",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-02.jpg?v=1700505794",
+          "altText": "Fringe Knit - medium-gray-02",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-03.jpg?v=1700505793",
+          "altText": "Fringe Knit - medium-gray-03",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-04.jpg?v=1700505794",
+          "altText": "Fringe Knit - medium-gray-04",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-05.jpg?v=1700505793",
+          "altText": "Fringe Knit - medium-gray-05",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-06.jpg?v=1700505794",
+          "altText": "Fringe Knit - medium-gray-06",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43251510313149",
+          "title": "Medium Gray",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            }
+          ],
+          "price": {
+            "amount": "46200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-06.jpg?v=1700505794"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43267544645821",
+          "title": "Natural",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Natural"
+            }
+          ],
+          "price": {
+            "amount": "44500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/natural-04.jpg?v=1700505794"
+          }
+        }
+      ],
+      "tags": ["fringe", "knit", "natural materials", "tack", "top", "volume", "wool"],
+      "seo": {
+        "title": "Fringe Knit",
+        "description": "The delicate lace and tuck expressions that have been made with fabric have been expressed in new knits, combining a variety of fine knitted patterns.Flower gar"
+      },
+      "updatedAt": "2026-03-21T08:38:19Z"
+    },
+    {
+      "handle": "knit-vest",
+      "title": "Knit Vest",
+      "description": "The delicate lace and tuck expressions that have been made with fabric have been expressed in new knits, combining a variety of fine knitted patterns.Flower garlands, which are essential for Hindi temples and celebrations, are also incorporated into the knitting patterns.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">The delicate lace and tuck expressions that have been made with fabric have been expressed in new knits, combining a variety of fine knitted patterns.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Flower garlands, which are essential for Hindi temples and celebrations, are also incorporated into the knitting patterns.</span>",
+      "minPrice": "45100.0",
+      "maxPrice": "46700.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Medium Gray", "Natural"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-01_ed746396-8f02-47dd-98ca-0ebacb6f68fe.jpg?v=1700506202",
+          "altText": "Knit Vest - medium-gray-01_ed746396-8f02-47dd-98ca-0ebacb6f68fe",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-02_f444f2ca-a806-4a0d-b144-d1847da65817.jpg?v=1700506202",
+          "altText": "Knit Vest - medium-gray-02_f444f2ca-a806-4a0d-b144-d1847da65817",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-03_8691e85f-d55e-41ad-b4cf-c74383a805ff.jpg?v=1700506201",
+          "altText": "Knit Vest - medium-gray-03_8691e85f-d55e-41ad-b4cf-c74383a805ff",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-04_4785ee1a-7a0b-4eeb-ab32-5d5bcc766f37.jpg?v=1700506202",
+          "altText": "Knit Vest - medium-gray-04_4785ee1a-7a0b-4eeb-ab32-5d5bcc766f37",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-05_e0d88135-7860-4f44-92a4-b94694968ef1.jpg?v=1700506201",
+          "altText": "Knit Vest - medium-gray-05_e0d88135-7860-4f44-92a4-b94694968ef1",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255030120637",
+          "title": "Medium Gray",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Medium Gray"
+            }
+          ],
+          "price": {
+            "amount": "45100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-04_4785ee1a-7a0b-4eeb-ab32-5d5bcc766f37.jpg?v=1700506202"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255030153405",
+          "title": "Natural",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Natural"
+            }
+          ],
+          "price": {
+            "amount": "46700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/medium-gray-05_e0d88135-7860-4f44-92a4-b94694968ef1.jpg?v=1700506201"
+          }
+        }
+      ],
+      "tags": ["knit", "natural materials", "tack", "top", "wool"],
+      "seo": {
+        "title": "Knit Vest",
+        "description": "The delicate lace and tuck expressions that have been made with fabric have been expressed in new knits, combining a variety of fine knitted patterns.Flower gar"
+      },
+      "updatedAt": "2026-03-21T06:16:12Z"
+    },
+    {
+      "handle": "long-boots",
+      "title": "Long Boots",
+      "description": "Straight line long boots with no zipper.The ankle is not too narrow, and the silhouette has just the right amount of room.The 3.5cm low heel feels flat and comfortable to wear, and the gold-colored line on the heel adds elegance to your back style.A highly versatile pair that can be matched with any bottoms from neat to casual.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">Straight line long boots with no zipper.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The ankle is not too narrow, and the silhouette has just the right amount of room.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The 3.5cm low heel feels flat and comfortable to wear, and the gold-colored line on the heel adds elegance to your back style.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">A highly versatile pair that can be matched with any bottoms from neat to casual.</span>",
+      "minPrice": "17800.0",
+      "maxPrice": "19750.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "Dark Brown"]
+        },
+        {
+          "name": "Size",
+          "values": ["22cm", "22.5cm", "23cm", "23.5cm", "24cm", "24.5cm", "25cm"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a001.jpg?v=1700532897",
+          "altText": "Long Boots - 4500023F0462_x1_a001",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a004.jpg?v=1700532898",
+          "altText": "Long Boots - 4500023F0462_x1_a004",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898",
+          "altText": "Long Boots - 4500023F0462_x1_a017",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898",
+          "altText": "Long Boots - 4500023F0462_x1_a018",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255948837053",
+          "title": "Black / 22cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "22cm"
+            }
+          ],
+          "price": {
+            "amount": "19250.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255948968125",
+          "title": "Black / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "18450.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949000893",
+          "title": "Black / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "19100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949033661",
+          "title": "Black / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "18750.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949066429",
+          "title": "Black / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "17800.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949099197",
+          "title": "Black / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "19500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949131965",
+          "title": "Black / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "18800.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a017.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949164733",
+          "title": "Dark Brown / 22cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "22cm"
+            }
+          ],
+          "price": {
+            "amount": "18700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949197501",
+          "title": "Dark Brown / 22.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "22.5cm"
+            }
+          ],
+          "price": {
+            "amount": "19460.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949230269",
+          "title": "Dark Brown / 23cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "23cm"
+            }
+          ],
+          "price": {
+            "amount": "17950.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949263037",
+          "title": "Dark Brown / 23.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "23.5cm"
+            }
+          ],
+          "price": {
+            "amount": "18300.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949295805",
+          "title": "Dark Brown / 24cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "24cm"
+            }
+          ],
+          "price": {
+            "amount": "19480.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949328573",
+          "title": "Dark Brown / 24.5cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "24.5cm"
+            }
+          ],
+          "price": {
+            "amount": "18200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255949361341",
+          "title": "Dark Brown / 25cm",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            },
+            {
+              "name": "Size",
+              "value": "25cm"
+            }
+          ],
+          "price": {
+            "amount": "19750.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/4500023F0462_x1_a018.jpg?v=1700532898"
+          }
+        }
+      ],
+      "tags": ["casual", "shoe", "simple design"],
+      "seo": {
+        "title": "Long Boots",
+        "description": "Straight line long boots with no zipper.The ankle is not too narrow, and the silhouette has just the right amount of room.The 3.5cm low heel feels flat and comf"
+      },
+      "updatedAt": "2026-03-19T18:35:00Z"
+    },
+    {
+      "handle": "microfiber-tote-bag",
+      "title": "Microfiber Tote Bag",
+      "description": "A tote bag made from a material with fine texture.This bag is slim, fits A4 size paper, has just the right gusset width, and has the dignity of a leather bag, yet the convenience of microfiber that can be used regardless of the weather.With a zippered pocket on the inside, you can store small items.Can be used by both men and women.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">A tote bag made from a material with fine texture.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This bag is slim, fits A4 size paper, has just the right gusset width, and has the dignity of a leather bag, yet the convenience of microfiber that can be used regardless of the weather.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">With a zippered pocket on the inside, you can store small items.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Can be used by both men and women.</span>",
+      "minPrice": "18300.0",
+      "maxPrice": "19200.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "Beige", "Dark Brown"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_c101.jpg?v=1700516773",
+          "altText": "Microfiber Tote Bag - 1300023S1163_x1_c101",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_a011.jpg?v=1700516773",
+          "altText": "Microfiber Tote Bag - 1300023S1163_x1_a011",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_a014.jpg?v=1700516772",
+          "altText": "Microfiber Tote Bag - 1300023S1163_x1_a014",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_c102.jpg?v=1700516767",
+          "altText": "Microfiber Tote Bag - 1300023S1163_x1_c102",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_c103.jpg?v=1700516768",
+          "altText": "Microfiber Tote Bag - 1300023S1163_x1_c103",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255414620349",
+          "title": "Black",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            }
+          ],
+          "price": {
+            "amount": "18700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_c101.jpg?v=1700516773"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255414653117",
+          "title": "Beige",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Beige"
+            }
+          ],
+          "price": {
+            "amount": "19200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_c102.jpg?v=1700516767"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255414685885",
+          "title": "Dark Brown",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Dark Brown"
+            }
+          ],
+          "price": {
+            "amount": "18300.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1300023S1163_x1_c103.jpg?v=1700516768"
+          }
+        }
+      ],
+      "tags": ["bag", "classy", "microfiber", "unisex"],
+      "seo": {
+        "title": "Microfiber Tote Bag",
+        "description": "A tote bag made from a material with fine texture.This bag is slim, fits A4 size paper, has just the right gusset width, and has the dignity of a leather bag, y"
+      },
+      "updatedAt": "2026-03-25T18:11:01Z"
+    },
+    {
+      "handle": "pearl-emotion-bracelet",
+      "title": "Pearl Emotion Bracelet",
+      "description": "A three-strand bracelet with a gentle bundle that creates just the right amount of volume.The small freshwater pearls and mantel-type clasp are not too bulky, making it suitable for daily use.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">A three-strand bracelet with a gentle bundle that creates just the right amount of volume.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The small freshwater pearls and mantel-type clasp are not too bulky, making it suitable for daily use.</span>",
+      "minPrice": "16500.0",
+      "maxPrice": "16500.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["White"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1700024S0048_x1_c101.jpg?v=1700517144",
+          "altText": "Pearl Emotion Bracelet - 1700024S0048_x1_c101",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1700024S0048_x1_a001.jpg?v=1700517145",
+          "altText": "Pearl Emotion Bracelet - 1700024S0048_x1_a001",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1700024S0048_x1_a002.jpg?v=1700517144",
+          "altText": "Pearl Emotion Bracelet - 1700024S0048_x1_a002",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255433855165",
+          "title": "White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ],
+          "price": {
+            "amount": "16500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1700024S0048_x1_a002.jpg?v=1700517144"
+          }
+        }
+      ],
+      "tags": ["accessory", "casual", "simple design"],
+      "seo": {
+        "title": "Pearl Emotion Bracelet",
+        "description": "A three-strand bracelet with a gentle bundle that creates just the right amount of volume.The small freshwater pearls and mantel-type clasp are not too bulky, m"
+      },
+      "updatedAt": "2026-03-17T21:19:01Z"
+    },
+    {
+      "handle": "phoebe-dress",
+      "title": "Phoebe Dress",
+      "description": "A dress that uses one of the symbolic techniques of Indian appliqué culture, in which cutwork is applied to the surface fabric to form a shape, for the collar.The appliqué, which is hand-stitched one stitch at a time, has a beautiful finish even when viewed from the back.In addition, the fabric of the cutwork part is embroidered one by one by freehand.You can wear it elegantly with a modest A-line silhouette.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">A dress that uses one of the symbolic techniques of Indian appliqué culture, in which cutwork is applied to the surface fabric to form a shape, for the collar.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The appliqué, which is hand-stitched one stitch at a time, has a beautiful finish even when viewed from the back.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">In addition, the fabric of the cutwork part is embroidered one by one by freehand.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">You can wear it elegantly with a modest A-line silhouette.</span>",
+      "minPrice": "48700.0",
+      "maxPrice": "49500.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["White", "Moca", "Kelly"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a004.jpg?v=1700514207",
+          "altText": "Phoebe Dress - 8900023S0141_x1_a004",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a006.jpg?v=1700514206",
+          "altText": "Phoebe Dress - 8900023S0141_x1_a006",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a009.jpg?v=1700514206",
+          "altText": "Phoebe Dress - 8900023S0141_x1_a009",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a015.jpg?v=1700514206",
+          "altText": "Phoebe Dress - 8900023S0141_x1_a015",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a021.jpg?v=1700514207",
+          "altText": "Phoebe Dress - 8900023S0141_x1_a021",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255335321789",
+          "title": "White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ],
+          "price": {
+            "amount": "49500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a009.jpg?v=1700514206"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255335354557",
+          "title": "Moca",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Moca"
+            }
+          ],
+          "price": {
+            "amount": "48700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a015.jpg?v=1700514206"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255335387325",
+          "title": "Kelly",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Kelly"
+            }
+          ],
+          "price": {
+            "amount": "49250.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900023S0141_x1_a021.jpg?v=1700514207"
+          }
+        }
+      ],
+      "tags": ["cotton", "dress", "organic", "texture"],
+      "seo": {
+        "title": "Phoebe Dress",
+        "description": "A dress that uses one of the symbolic techniques of Indian appliqué culture, in which cutwork is applied to the surface fabric to form a shape, for the collar.T"
+      },
+      "updatedAt": "2026-03-20T07:41:02Z"
+    },
+    {
+      "handle": "shaggy-tweed-jacket",
+      "title": "Shaggy Tweed Jacket",
+      "description": "The fringe of the same material is used luxuriously to express the gorgeousness.It has a relaxed design with slightly dropped shoulders.The bespoke smoked gold buttons are accented and add a touch of flavor.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">The fringe of the same material is used luxuriously to express the gorgeousness.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">It has a relaxed design with slightly dropped shoulders.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The bespoke smoked gold buttons are accented and add a touch of flavor.</span>",
+      "minPrice": "50600.0",
+      "maxPrice": "51300.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Off White", "Black"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a011.jpg?v=1700515992",
+          "altText": "Shaggy Tweed Jacket - 1500023Y0123_x1_a011",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a012.jpg?v=1700515992",
+          "altText": "Shaggy Tweed Jacket - 1500023Y0123_x1_a012",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a013.jpg?v=1700515992",
+          "altText": "Shaggy Tweed Jacket - 1500023Y0123_x1_a013",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a016.jpg?v=1700515992",
+          "altText": "Shaggy Tweed Jacket - 1500023Y0123_x1_a016",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a017.jpg?v=1700515993",
+          "altText": "Shaggy Tweed Jacket - 1500023Y0123_x1_a017",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255389257917",
+          "title": "Off White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Off White"
+            }
+          ],
+          "price": {
+            "amount": "50600.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a016.jpg?v=1700515992"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255389290685",
+          "title": "Black",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            }
+          ],
+          "price": {
+            "amount": "51300.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/1500023Y0123_x1_a017.jpg?v=1700515993"
+          }
+        }
+      ],
+      "tags": ["comfortable", "original", "outer"],
+      "seo": {
+        "title": "Shaggy Tweed Jacket",
+        "description": "The fringe of the same material is used luxuriously to express the gorgeousness.It has a relaxed design with slightly dropped shoulders.The bespoke smoked gold "
+      },
+      "updatedAt": "2026-03-22T17:20:37Z"
+    },
+    {
+      "handle": "trinity-dress",
+      "title": "Trinity Dress",
+      "description": "Dress with puff sleeves and intricate pintucks on the front.While it has a relaxed silhouette, it uses a banded collar to give you a sense of cleanliness and elegance.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">Dress with puff sleeves and intricate pintucks on the front.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">While it has a relaxed silhouette, it uses a banded collar to give you a sense of cleanliness and elegance.</span>",
+      "minPrice": "46200.0",
+      "maxPrice": "47500.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Light Blue", "Cobalt"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/lb-01.jpg?v=1700507459",
+          "altText": "Trinity Dress - lb-01",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/lb-02.jpg?v=1700507459",
+          "altText": "Trinity Dress - lb-02",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/lb-03.jpg?v=1700507459",
+          "altText": "Trinity Dress - lb-03",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/lb-04.jpg?v=1700507459",
+          "altText": "Trinity Dress - lb-04",
+          "width": 500,
+          "height": 600
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/lb-05.jpg?v=1700507459",
+          "altText": "Trinity Dress - lb-05",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/cobalt-01.jpg?v=1700507459",
+          "altText": "Trinity Dress - cobalt-01",
+          "width": 500,
+          "height": 600
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255074816189",
+          "title": "Light Blue",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Light Blue"
+            }
+          ],
+          "price": {
+            "amount": "46200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/lb-05.jpg?v=1700507459"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255075176637",
+          "title": "Cobalt",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Cobalt"
+            }
+          ],
+          "price": {
+            "amount": "47500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/cobalt-03.jpg?v=1700507459"
+          }
+        }
+      ],
+      "tags": ["comfortable", "denim fabric", "dress", "indigo", "tack"],
+      "seo": {
+        "title": "Trinity Dress",
+        "description": "Dress with puff sleeves and intricate pintucks on the front.While it has a relaxed silhouette, it uses a banded collar to give you a sense of cleanliness and el"
+      },
+      "updatedAt": "2026-03-19T03:16:00Z"
+    },
+    {
+      "handle": "tweed-pocket-collarless-jacket",
+      "title": "Tweed Pocket Collarless Jacket",
+      "description": "A tweed jacket that creates a classic atmosphere.The moderately roomy sizing adds a mature feel.The fringe on the front, pockets, and cuffs give it a sophisticated look.Large buttons add an accent to your outfit.The length is neither too long nor too short, making it easy to match with a variety of items.Depending on the item you match it with, it can be used for a variety of occasions, from work to ceremonies.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">A tweed jacket that creates a classic atmosphere.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The moderately roomy sizing adds a mature feel.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The fringe on the front, pockets, and cuffs give it a sophisticated look.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Large buttons add an accent to your outfit.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The length is neither too long nor too short, making it easy to match with a variety of items.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Depending on the item you match it with, it can be used for a variety of occasions, from work to ceremonies.</span>",
+      "minPrice": "24200.0",
+      "maxPrice": "25700.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Off White", "Navy"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a023.jpg?v=1700515756",
+          "altText": "Tweed Pocket Collarless Jacket - 3500023Y0189_x1_a023",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a024.jpg?v=1700515756",
+          "altText": "Tweed Pocket Collarless Jacket - 3500023Y0189_x1_a024",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a025.jpg?v=1700515756",
+          "altText": "Tweed Pocket Collarless Jacket - 3500023Y0189_x1_a025",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a027.jpg?v=1700515756",
+          "altText": "Tweed Pocket Collarless Jacket - 3500023Y0189_x1_a027",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a031.jpg?v=1700515756",
+          "altText": "Tweed Pocket Collarless Jacket - 3500023Y0189_x1_a031",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255378378941",
+          "title": "Off White",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Off White"
+            }
+          ],
+          "price": {
+            "amount": "24200.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a025.jpg?v=1700515756"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255378444477",
+          "title": "Navy",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Navy"
+            }
+          ],
+          "price": {
+            "amount": "25700.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/3500023Y0189_x1_a031.jpg?v=1700515756"
+          }
+        }
+      ],
+      "tags": ["classic", "comfortable", "outer"],
+      "seo": {
+        "title": "Tweed Pocket Collarless Jacket",
+        "description": "A tweed jacket that creates a classic atmosphere.The moderately roomy sizing adds a mature feel.The fringe on the front, pockets, and cuffs give it a sophistica"
+      },
+      "updatedAt": "2026-03-20T03:37:20Z"
+    },
+    {
+      "handle": "vera-wide-pants",
+      "title": "Vera Wide Pants",
+      "description": "Wide pants that are compact around the waist and wide at the hem.The design makes it easy to wear even by itself without picking up your leg lines.Switching to the center makes it look neat.",
+      "descriptionHtml": "<span data-mce-fragment=\"1\">Wide pants that are compact around the waist and wide at the hem.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The design makes it easy to wear even by itself without picking up your leg lines.</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Switching to the center makes it look neat.</span>",
+      "minPrice": "22000.0",
+      "maxPrice": "23100.0",
+      "currencyCode": "JPY",
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "Light Pink", "Red", "Olive"]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_c102.jpg?v=1700509804",
+          "altText": "Vera Wide Pants - 8900022Y0015_x1_c102",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_a004.jpg?v=1700509806",
+          "altText": "Vera Wide Pants - 8900022Y0015_x1_a004",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_a007.jpg?v=1700509805",
+          "altText": "Vera Wide Pants - 8900022Y0015_x1_a007",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_a017.jpg?v=1700509806",
+          "altText": "Vera Wide Pants - 8900022Y0015_x1_a017",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_a016.jpg?v=1700509805",
+          "altText": "Vera Wide Pants - 8900022Y0015_x1_a016",
+          "width": 1500,
+          "height": 1800
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_c101.jpg?v=1700509804",
+          "altText": "Vera Wide Pants - 8900022Y0015_x1_c101",
+          "width": 1500,
+          "height": 1800
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/43255192813757",
+          "title": "Black",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            }
+          ],
+          "price": {
+            "amount": "22000.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_c101.jpg?v=1700509804"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255192879293",
+          "title": "Light Pink",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Light Pink"
+            }
+          ],
+          "price": {
+            "amount": "23100.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_c102.jpg?v=1700509804"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255192912061",
+          "title": "Red",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Red"
+            }
+          ],
+          "price": {
+            "amount": "22500.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_c103.jpg?v=1700509805"
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/43255192944829",
+          "title": "Olive",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Olive"
+            }
+          ],
+          "price": {
+            "amount": "22250.0",
+            "currencyCode": "JPY"
+          },
+          "image": {
+            "originalSrc": "https://cdn.shopify.com/s/files/1/0636/4417/2477/files/8900022Y0015_x1_c104.jpg?v=1700509805"
+          }
+        }
+      ],
+      "tags": ["bottom", "compact", "cotton", "easy to wear", "refreshing"],
+      "seo": {
+        "title": "Vera Wide Pants",
+        "description": "Wide pants that are compact around the waist and wide at the hem.The design makes it easy to wear even by itself without picking up your leg lines.Switching to "
+      },
+      "updatedAt": "2026-03-17T08:44:21Z"
+    }
+  ],
+  "collections": [
+    {
+      "handle": "accessories",
+      "title": "Accessories",
+      "description": "Accessories products",
+      "products": ["pearl-emotion-bracelet", "clear-earrings"]
+    },
+    {
+      "handle": "all-products",
+      "title": "All Products",
+      "description": "All Products products",
+      "products": [
+        "knit-vest",
+        "clem-blouse",
+        "fringe-knit",
+        "trinity-dress",
+        "blundstone-classics",
+        "tweed-pocket-collarless-jacket",
+        "long-boots",
+        "eco-fur-2-way-bag",
+        "shaggy-tweed-jacket",
+        "phoebe-dress",
+        "ankle-fit-short-boots",
+        "microfiber-tote-bag",
+        "emilie-pants",
+        "faux-fur-warm-moccasins",
+        "vera-wide-pants",
+        "clear-earrings",
+        "pearl-emotion-bracelet"
+      ]
+    },
+    {
+      "handle": "bags",
+      "title": "Bags",
+      "description": "Bags products",
+      "products": ["eco-fur-2-way-bag", "microfiber-tote-bag"]
+    },
+    {
+      "handle": "bottoms",
+      "title": "Bottoms",
+      "description": "Bottoms products",
+      "products": ["vera-wide-pants", "emilie-pants"]
+    },
+    {
+      "handle": "clothing",
+      "title": "Clothing",
+      "description": "Clothing products",
+      "products": [
+        "fringe-knit",
+        "knit-vest",
+        "clem-blouse",
+        "trinity-dress",
+        "vera-wide-pants",
+        "emilie-pants",
+        "phoebe-dress",
+        "tweed-pocket-collarless-jacket",
+        "shaggy-tweed-jacket"
+      ]
+    },
+    {
+      "handle": "dresses",
+      "title": "Dresses",
+      "description": "Dresses products",
+      "products": ["trinity-dress", "phoebe-dress"]
+    },
+    {
+      "handle": "outer",
+      "title": "Outer",
+      "description": "Outer products",
+      "products": ["tweed-pocket-collarless-jacket", "shaggy-tweed-jacket"]
+    },
+    {
+      "handle": "shoes",
+      "title": "Shoes",
+      "description": "Shoes products",
+      "products": [
+        "blundstone-classics",
+        "long-boots",
+        "ankle-fit-short-boots",
+        "faux-fur-warm-moccasins"
+      ]
+    },
+    {
+      "handle": "tops",
+      "title": "Tops",
+      "description": "Shop the latest women&#x27;s tops at Rumusha. Discover tops for all occasions from t-shirts and long-sleeve tops to bodysuits and blouses.",
+      "products": ["fringe-knit", "knit-vest", "clem-blouse"]
+    },
+    {
+      "handle": "winter-2024",
+      "title": "Winter 2024",
+      "description": "Winter 2024 Collection",
+      "products": ["fringe-knit", "knit-vest"]
+    }
+  ],
+  "pages": [
+    {
+      "handle": "about-us",
+      "title": "About us",
+      "body": "<p>Rumusha is a Japanese clothing brand that specializes in creating high-quality, stylish, and comfortable clothing for men and women. Our brand is inspired by the rich cultural heritage of Japan, and we strive to incorporate traditional Japanese elements into our designs.</p>\n<p>At Rumusha, our mission is to provide our customers with clothing that is not only fashionable but also comfortable and functional. We believe that clothing should be an extension of one’s personality, and our designs reflect this belief. We are committed to using only the highest quality materials and fabrics in our clothing, and we work closely with our suppliers to ensure that our products are ethically and sustainably sourced.</p>\n<p>Our vision is to become the leading Japanese clothing brand in the world. We believe that our unique designs, commitment to quality, and dedication to customer satisfaction will help us achieve this goal. We are constantly innovating and improving our products to meet the changing needs of our customers, and we are always looking for new and exciting ways to expand our brand.</p>\n<p>At Rumusha, we offer a wide range of clothing for men and women, including t-shirts, hoodies, jackets, pants, and more. Our products are designed to be both stylish and functional, and we use only the highest quality materials and fabrics in our clothing. We are constantly updating our product line to reflect the latest fashion trends and to meet the changing needs of our customers.</p>\n<p>At Rumusha, our customers are our top priority. We are committed to providing the highest level of customer service, and we work hard to ensure that our customers are completely satisfied with their purchases. We believe that our customers are the key to our success, and we are dedicated to building long-lasting relationships with them.</p>\n<p>This document was last updated on November 26, 2023.</p>\n<p>Copyright © 2023 Rashid ShamlooAll Rights Reserved</p>\n<p>All products on this site are for demo purposes only. The product images and information are copyrighted to their respective owners.</p>",
+      "bodySummary": "Rumusha is a Japanese clothing brand that specializes in creating high-quality, stylish, and comfortable clothing for men and women. Our brand is inspired by the rich cultural heritage of Japan, and w",
+      "updatedAt": "2026-10-05T08:28:56.977Z",
+      "createdAt": "2026-10-05T08:28:56.978Z"
+    }
+  ]
+}

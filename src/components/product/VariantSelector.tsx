@@ -80,7 +80,7 @@ export function VariantSelector({
                   'cursor-default border-darkPurple': isActive,
                   'border-transparent hover:bg-purple hover:text-white ':
                     !isActive && isAvailableForSale,
-                  'relative z-10 cursor-not-allowed overflow-hidden bg-neutral-100 text-neutral-500 ring-1 ring-neutral-300 before:absolute before:inset-x-0 before:-z-10 before:h-px before:-rotate-45 before:bg-neutral-300 before:transition-transform dark:bg-neutral-900 dark:text-neutral-400 dark:ring-neutral-700 before:dark:bg-neutral-700':
+                  'relative z-10 cursor-not-allowed overflow-hidden bg-neutral-100 text-neutral-500 ring-1 ring-neutral-300 before:absolute before:inset-x-0 before:-z-10 before:h-px before:bg-neutral-300 before:transition-transform before:-rotate-45 dark:bg-neutral-900 dark:text-neutral-400 dark:ring-neutral-700 before:dark:bg-neutral-700':
                     !isAvailableForSale
                 }
               )}

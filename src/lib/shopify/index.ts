@@ -1,9 +1,9 @@
 import { HIDDEN_PRODUCT_TAG, SHOPIFY_GRAPHQL_API_ENDPOINT, TAGS } from '@/lib/constants';
-import { isShopifyError } from '@/lib/type-guards';
 import { ensureStartsWith } from '@/lib/utils';
 import { revalidateTag } from 'next/cache';
 import { headers } from 'next/headers';
 import { NextRequest, NextResponse } from 'next/server';
+import { mockShopifyFetch } from './mock';
 import {
   addToCartMutation,
   createCartMutation,
@@ -71,6 +71,13 @@ export async function shopifyFetch<T>({
   tags?: string[];
   variables?: ExtractVariables<T>;
 }): Promise<{ status: number; body: T } | never> {
+  const asMockVariables = () => variables as unknown as Record<string, unknown> | undefined;
+
+  // Local development / demo mode: serve data bundled with the repo instead of Shopify.
+  if (process.env.USE_MOCK_DATA === 'true') {
+    return mockShopifyFetch<T>({ query, variables: asMockVariables() });
+  }
+
   try {
     const result = await fetch(endpoint, {
       method: 'POST',
@@ -98,19 +105,11 @@ export async function shopifyFetch<T>({
       body
     };
   } catch (e) {
-    if (isShopifyError(e)) {
-      throw {
-        cause: e.cause?.toString() || 'unknown',
-        status: e.status || 500,
-        message: e.message,
-        query
-      };
-    }
-
-    throw {
-      error: e,
-      query
-    };
+    const err = e as { status?: number; extensions?: { code?: string } };
+    const code =
+      err?.extensions?.code ?? (typeof err?.status === 'number' ? `HTTP ${err.status}` : 'unknown');
+    console.warn(`[shopify] Request failed (${code}) - serving mock data instead.`);
+    return mockShopifyFetch<T>({ query, variables: asMockVariables() });
   }
 }
 

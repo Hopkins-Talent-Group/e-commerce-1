@@ -24,7 +24,7 @@ const BestSellers = () => {
             <button
               key={i}
               className={clsx(
-                'relative cursor-pointer leading-[2] transition-all duration-300 first-letter:uppercase before:absolute before:bottom-0 before:left-1/2 before:h-[4px] before:-translate-x-1/2 before:bg-purple before:transition-all before:duration-300 hover:text-purple hover:before:w-full hover:before:opacity-100',
+                'relative cursor-pointer leading-[2] transition-all duration-300 first-letter:uppercase before:absolute before:bottom-0 before:left-1/2 before:h-[4px] before:bg-purple before:transition-all before:duration-300 before:-translate-x-1/2 hover:text-purple hover:before:w-full hover:before:opacity-100',
                 {
                   'before:w-full before:opacity-100': collection === activeCollection,
                   'before:w-0 before:opacity-0': collection !== activeCollection
