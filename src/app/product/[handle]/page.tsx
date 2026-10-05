@@ -19,7 +19,7 @@ import RecommendedItems from '@/components/product/RecommendedItems';
 // types
 // import { Image } from '@/lib/shopify/types';
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 
 export async function generateMetadata({
   params
