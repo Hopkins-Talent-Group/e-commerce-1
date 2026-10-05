@@ -23,7 +23,7 @@ const AboutUs = dynamic(() => import('@/components/sections/AboutUs'), {
   loading
 });
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 
 export const metadata = {
   description: 'Clothing store e-commerce website by Rashid Shamloo',

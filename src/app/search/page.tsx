@@ -4,7 +4,7 @@ import FilterList from '@/components/layout/search/filter';
 import { defaultSort, sorting } from '@/lib/constants';
 import { getProducts } from '@/lib/shopify';
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 
 export const metadata = {
   title: 'Search',
