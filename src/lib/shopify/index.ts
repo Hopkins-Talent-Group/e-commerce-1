@@ -50,11 +50,14 @@ import {
   ShopifyUpdateCartOperation
 } from './types';
 
-const domain = process.env.SHOPIFY_STORE_DOMAIN
+const hasShopifyCredentials =
+  process.env.SHOPIFY_STORE_DOMAIN && process.env.SHOPIFY_STOREFRONT_ACCESS_TOKEN;
+
+const domain = hasShopifyCredentials
   ? ensureStartsWith(process.env.SHOPIFY_STORE_DOMAIN, 'https://')
   : '';
 const endpoint = `${domain}${SHOPIFY_GRAPHQL_API_ENDPOINT}`;
-const key = process.env.SHOPIFY_STOREFRONT_ACCESS_TOKEN!;
+const key = hasShopifyCredentials ? process.env.SHOPIFY_STOREFRONT_ACCESS_TOKEN! : '';
 
 type ExtractVariables<T> = T extends { variables: object } ? T['variables'] : never;
 
