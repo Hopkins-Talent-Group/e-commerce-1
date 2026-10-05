@@ -18,7 +18,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const collections =
     (
-      await mockShopifyFetch({
+      await mockShopifyFetch<{
+        body: {
+          data: {
+            collections: {
+              edges: {
+                node: {
+                  handle: string;
+                  updatedAt: string;
+                }[];
+              };
+            };
+          };
+        };
+      }>({
         query: 'query getCollections'
       })
     ).body?.data?.collections?.edges?.map((edge) => edge.node) || [];
@@ -30,7 +43,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const products =
     (
-      await mockShopifyFetch({
+      await mockShopifyFetch<{
+        body: {
+          data: {
+            products: {
+              edges: {
+                node: {
+                  handle: string;
+                  updatedAt: string;
+                }[];
+              };
+            };
+          };
+        };
+      }>({
         query: 'query getProducts',
         variables: { query: '' }
       })
@@ -43,7 +69,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const pages =
     (
-      await mockShopifyFetch({
+      await mockShopifyFetch<{
+        body: {
+          data: {
+            pages: {
+              handle: string;
+              updatedAt: string;
+            }[];
+          };
+        };
+      }>({
         query: 'query getPages'
       })
     ).body?.data?.pages || [];
