@@ -47,9 +47,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const pagesResponse = (await mockShopifyFetch({
     query: 'query getPages'
-  })) as { body: { data: { pages: { handle: string; updatedAt: string }[] } } };
+  })) as {
+    body: { data: { pages: { edges: { node: { handle: string; updatedAt: string } }[] } } };
+  };
 
-  const pages = pagesResponse.body?.data?.pages || [];
+  const pages = pagesResponse.body?.data?.pages?.edges?.map((edge) => edge.node) || [];
 
   const pagesPromise = pages.map((page) => ({
     url: `${baseUrl}/pages/${page.handle}`,
