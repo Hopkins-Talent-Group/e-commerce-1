@@ -1,5 +1,5 @@
 import { mockShopifyFetch } from '@/lib/shopify/mock';
-import { MetadataRoute } from 'next';
+import type { MetadataRoute } from 'next';
 
 type Route = {
   url: string;
@@ -16,34 +16,37 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: new Date().toISOString()
   }));
 
-  const body = await mockShopifyFetch({
-    query: 'query getCollections'
-  });
-
-  const collections = body.data?.collections?.edges?.map((edge) => edge.node) || [];
+  const collections =
+    (
+      await mockShopifyFetch({
+        query: 'query getCollections'
+      })
+    ).body?.data?.collections?.edges?.map((edge) => edge.node) || [];
 
   const collectionsPromise = collections.map((collection) => ({
     url: `${baseUrl}/collections/${collection.handle}`,
     lastModified: collection.updatedAt
   }));
 
-  const productsBody = await mockShopifyFetch({
-    query: 'query getProducts',
-    variables: { query: '' }
-  });
-
-  const products = productsBody.data?.products?.edges?.map((edge) => edge.node) || [];
+  const products =
+    (
+      await mockShopifyFetch({
+        query: 'query getProducts',
+        variables: { query: '' }
+      })
+    ).body?.data?.products?.edges?.map((edge) => edge.node) || [];
 
   const productsPromise = products.map((product) => ({
     url: `${baseUrl}/product/${product.handle}`,
     lastModified: product.updatedAt
   }));
 
-  const pagesBody = await mockShopifyFetch({
-    query: 'query getPages'
-  });
-
-  const pages = pagesBody.data?.pages || [];
+  const pages =
+    (
+      await mockShopifyFetch({
+        query: 'query getPages'
+      })
+    ).body?.data?.pages || [];
 
   const pagesPromise = pages.map((page) => ({
     url: `${baseUrl}/pages/${page.handle}`,
