@@ -1,4 +1,4 @@
-import mockShopifyFetch from '@/lib/shopify/mock';
+import { mockShopifyFetch } from '@/lib/shopify/mock';
 import { MetadataRoute } from 'next';
 
 type Route = {
