@@ -16,72 +16,40 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: new Date().toISOString()
   }));
 
+  // Use type assertion to bypass strict generic inference
+  const collectionsResponse = (await mockShopifyFetch({
+    query: 'query getCollections'
+  })) as {
+    body: { data: { collections: { edges: { node: { handle: string; updatedAt: string } }[] }[] } };
+  };
+
   const collections =
-    (
-      await mockShopifyFetch<{
-        body: {
-          data: {
-            collections: {
-              edges: {
-                node: {
-                  handle: string;
-                  updatedAt: string;
-                }[];
-              };
-            };
-          };
-        };
-      }>({
-        query: 'query getCollections'
-      })
-    ).body?.data?.collections?.edges?.map((edge) => edge.node) || [];
+    collectionsResponse.body?.data?.collections?.edges?.map((edge) => edge.node) || [];
 
   const collectionsPromise = collections.map((collection) => ({
     url: `${baseUrl}/collections/${collection.handle}`,
     lastModified: collection.updatedAt
   }));
 
-  const products =
-    (
-      await mockShopifyFetch<{
-        body: {
-          data: {
-            products: {
-              edges: {
-                node: {
-                  handle: string;
-                  updatedAt: string;
-                }[];
-              };
-            };
-          };
-        };
-      }>({
-        query: 'query getProducts',
-        variables: { query: '' }
-      })
-    ).body?.data?.products?.edges?.map((edge) => edge.node) || [];
+  const productsResponse = (await mockShopifyFetch({
+    query: 'query getProducts',
+    variables: { query: '' }
+  })) as {
+    body: { data: { products: { edges: { node: { handle: string; updatedAt: string } }[] }[] } };
+  };
+
+  const products = productsResponse.body?.data?.products?.edges?.map((edge) => edge.node) || [];
 
   const productsPromise = products.map((product) => ({
     url: `${baseUrl}/product/${product.handle}`,
     lastModified: product.updatedAt
   }));
 
-  const pages =
-    (
-      await mockShopifyFetch<{
-        body: {
-          data: {
-            pages: {
-              handle: string;
-              updatedAt: string;
-            }[];
-          };
-        };
-      }>({
-        query: 'query getPages'
-      })
-    ).body?.data?.pages || [];
+  const pagesResponse = (await mockShopifyFetch({
+    query: 'query getPages'
+  })) as { body: { data: { pages: { handle: string; updatedAt: string }[] }[] } };
+
+  const pages = pagesResponse.body?.data?.pages || [];
 
   const pagesPromise = pages.map((page) => ({
     url: `${baseUrl}/pages/${page.handle}`,
