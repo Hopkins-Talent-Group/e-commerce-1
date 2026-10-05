@@ -20,7 +20,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const collectionsResponse = (await mockShopifyFetch({
     query: 'query getCollections'
   })) as {
-    body: { data: { collections: { edges: { node: { handle: string; updatedAt: string } }[] }[] } };
+    body: { data: { collections: { edges: { node: { handle: string; updatedAt: string } }[] } } };
   };
 
   const collections =
@@ -35,7 +35,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     query: 'query getProducts',
     variables: { query: '' }
   })) as {
-    body: { data: { products: { edges: { node: { handle: string; updatedAt: string } }[] }[] } };
+    body: { data: { products: { edges: { node: { handle: string; updatedAt: string } }[] } } };
   };
 
   const products = productsResponse.body?.data?.products?.edges?.map((edge) => edge.node) || [];
@@ -47,7 +47,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const pagesResponse = (await mockShopifyFetch({
     query: 'query getPages'
-  })) as { body: { data: { pages: { handle: string; updatedAt: string }[] }[] } };
+  })) as { body: { data: { pages: { handle: string; updatedAt: string }[] } } };
 
   const pages = pagesResponse.body?.data?.pages || [];
 

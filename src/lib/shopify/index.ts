@@ -54,7 +54,7 @@ const hasShopifyCredentials =
   process.env.SHOPIFY_STORE_DOMAIN && process.env.SHOPIFY_STOREFRONT_ACCESS_TOKEN;
 
 const domain = hasShopifyCredentials
-  ? ensureStartsWith(process.env.SHOPIFY_STORE_DOMAIN, 'https://')
+  ? ensureStartsWith(process.env.SHOPIFY_STORE_DOMAIN!, 'https://')
   : '';
 const endpoint = `${domain}${SHOPIFY_GRAPHQL_API_ENDPOINT}`;
 const key = hasShopifyCredentials ? process.env.SHOPIFY_STOREFRONT_ACCESS_TOKEN! : '';
